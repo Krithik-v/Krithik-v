@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Krithik-v
 - 👀 I’m interested in Python,Django
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning API's
 - 📫 How to reach me @krithikv08@gmail.com
 
 <!---
